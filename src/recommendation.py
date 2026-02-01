@@ -39,5 +39,5 @@ if __name__=="__main__":
         movie_user_matrix_filled.index,
         index=range(len(movie_user_matrix_filled))
     )
-    recommend(input(),5)
+    recommend(input(),input())
 
