@@ -1,5 +1,6 @@
 # Movie Recommendation System
 
+Movie Recommendation System Project
 ## Overview
 This project implements a movie recommendation system using collaborative filtering and cosine similarity. Movies are recommended based on similarity in user rating patterns.
 
